@@ -29,16 +29,6 @@ elif answer == "scissors" and comp_answer == "scissors":
 else:
     print("Invalid input. Please enter rock, paper, or scissors.")
 
-# elif user_input == "rock" and random.choice == "paper":
-#     print("You lose!")
-# elif user_input == "paper" and random.choice == "rock":
-#     print("You win!")
-# elif user_input == "paper" and random.choice == "scissors":
-#     print("You lose!")
-# elif user_input == "scissors" and random.choice == "paper":
-#     print("You win!")
-# elif user_input == "scissors" and random.choice == "rock":
-#     print("You lose!")
 
 
 
